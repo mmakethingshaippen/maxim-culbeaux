@@ -2,3 +2,5 @@
 .conversation{margin-top:65px}.conversation>h2{margin-bottom:35px}
 .rocket-crop{display:block;position:relative;width:40px;height:40px;overflow:hidden;border-radius:10px;transform:scale(2.2)}.rocket-crop img{position:absolute;max-width:none;width:251px;height:101px;left:-58px;top:-23px}.launchpad-art{background:#efefec}
 .launchpad-logo{display:grid;place-items:center;width:150px;height:150px;border-radius:34px;background:#101b33;color:#00c9d8}.launchpad-logo svg{width:98px;height:98px}@media(max-width:700px){.launchpad-logo{width:130px;height:130px;border-radius:29px}.launchpad-logo svg{width:85px;height:85px}}
+
+.experience li{flex-wrap:wrap;row-gap:8px}.experience li p{flex-basis:100%;font-size:13px;line-height:1.7;color:var(--muted)}
